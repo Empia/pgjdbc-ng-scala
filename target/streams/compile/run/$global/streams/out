@@ -1,0 +1,24 @@
+[0m[[0minfo[0m] [0mRunning basic.jdbc.Main [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/stan/Dev/pgjdbc-ng-scala/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/stan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/stan/.ivy2/cache/com.impossibl.pgjdbc-ng/pgjdbc-ng/bundles/pgjdbc-ng-0.7.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/home/stan/.ivy2/cache/io.netty/netty-all/jars/netty-all-4.0.38.Final.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mInterrupting thread PG-JDBC EventLoop (3)[0m
+[0m[[0mdebug[0m] [0m	Interrupted PG-JDBC EventLoop (3)[0m
+[0m[[0mdebug[0m] [0mInterrupting thread PG-JDBC EventLoop (1)[0m
+[0m[[0mdebug[0m] [0m	Interrupted PG-JDBC EventLoop (1)[0m
+[0m[[0mdebug[0m] [0mInterrupting thread PG-JDBC EventLoop (4)[0m
+[0m[[0mdebug[0m] [0m	Interrupted PG-JDBC EventLoop (4)[0m
+[0m[[0mdebug[0m] [0mInterrupting thread threadDeathWatcher-2-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted threadDeathWatcher-2-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread PG-JDBC EventLoop (2)[0m
+[0m[[0mdebug[0m] [0m	Interrupted PG-JDBC EventLoop (2)[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
